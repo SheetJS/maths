@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "dependencies": {
+    "gamma":"",
+    "bessel":"",
+    "frac":"",
+    "voc":""
+  },
+  "name": "maths",
+  "author": "SheetJS",
+  "description": "Panoply of Math Functions for NodeJS",
+  "keywords": ["math", "maths", "specfun", "scimath"],
+  "repository":{ "type": "git", "url": "https://github.com/SheetJS/maths.git" },
+  "main": "maths.js"
+}
